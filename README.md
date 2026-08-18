@@ -30,21 +30,6 @@ I'm currently expanding my knowledge in cybersecurity, infrastructure management
 
 # 🚀 Selected Projects
 
-## 🔐 Cybersecurity & IoT Mission — Universidad de los Andes
-
-Academic international experience focused on **Cybersecurity and Internet of Things**.
-
-I worked on vulnerability analysis in simulated environments and proposed secure architectures designed to protect data and communications.
-
-I also participated in the development and integration of IoT solutions, applying connectivity, security and data integrity principles.
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
----
-
 ## 🌐 ProjectVision
 
 Software project developed as part of my academic and personal learning experience.
