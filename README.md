@@ -3,7 +3,7 @@
 Information Systems Engineering student focused on **IT Support, Cybersecurity, Infrastructure, Databases and Cloud Technologies**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgonzalesyactayo/)
 
 ---
 
@@ -85,6 +85,6 @@ If you'd like to discuss a project, internship opportunity or collaboration, fee
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-manuelgonzales.dev-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Gonzales-0A66C2?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Gonzales-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgonzalesyactayo/)
 
 [![Email](https://img.shields.io/badge/Email-manuelgonzalesyactayo%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manuelgonzalesyactayo@gmail.com)
