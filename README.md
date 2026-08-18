@@ -3,7 +3,7 @@
 Information Systems Engineering student focused on **IT Support, Cybersecurity, Infrastructure, Databases and Cloud Technologies**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgonzalesyactayo/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Gonzales-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuelgonzalesyactayo/)
 
 ---
 
