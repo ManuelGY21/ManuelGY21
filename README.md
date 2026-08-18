@@ -2,8 +2,8 @@
 
 Information Systems Engineering student focused on IT Support, Cybersecurity, Infrastructure and Cloud Technologies.
 
-[Portfolio](TU_PORTAFOLIO)
-[LinkedIn](TU_LINKEDIN)
+[Portfolio](https://manuelgonzales.dev/)
+[LinkedIn](https://www.linkedin.com/in/manuelgonzalesyactayo/)
 
 ---
 
@@ -91,5 +91,5 @@ I worked on vulnerability analysis in simulated environments, secure architectur
 ## 📫 Contact
 
 - Email: manuelgonzalesyactayo@gmail.com
-- LinkedIn: TU_LINKEDIN
-- Portfolio: TU_PORTAFOLIO
+- LinkedIn: (https://www.linkedin.com/in/manuelgonzalesyactayo)
+- Portfolio: (https://manuelgonzales.dev/)
