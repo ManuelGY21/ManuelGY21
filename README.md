@@ -68,48 +68,6 @@ My personal website where I present my profile, projects, skills and professiona
 
 ---
 
-# 🛠️ Technical Skills
-
-## IT Support & Infrastructure
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-F38020?style=flat&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
-
-## Cybersecurity
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-005571?style=flat&logo=elastic&logoColor=white)
-![IDS](https://img.shields.io/badge/IDS-EE3124?style=flat&logo=fortinet&logoColor=white)
-![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=flat&logo=linux&logoColor=black)
-
-## Databases
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-## Cloud
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
-![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-5C2D91?style=flat&logo=microsoft&logoColor=white)
-
-## Tools & Methodologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
-![ITSM](https://img.shields.io/badge/ITSM-6366F1?style=flat&logo=itil&logoColor=white)
-
----
-
 # 🎓 Education
 
 **Universidad Peruana de Ciencias Aplicadas — UPC**
