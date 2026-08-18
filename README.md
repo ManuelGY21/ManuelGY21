@@ -1,95 +1,204 @@
 # Hi, I'm Manuel Gonzales 👋
 
-Information Systems Engineering student focused on IT Support, Cybersecurity, Infrastructure and Cloud Technologies.
+Information Systems Engineering student focused on **IT Support, Cybersecurity, Infrastructure, Databases and Cloud Technologies**.
 
-[Portfolio](https://manuelgonzales.dev/)
-[LinkedIn](https://www.linkedin.com/in/manuelgonzalesyactayo/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
 
 ---
 
 ## 👨‍💻 About me
 
-I'm an Information Systems Engineering student at UPC with a strong interest in IT infrastructure, cybersecurity and technical support.
+I'm an Information Systems Engineering student at **Universidad Peruana de Ciencias Aplicadas (UPC)**.
 
-I have experience with Windows and Linux environments, TCP/IP networks, SQL databases, troubleshooting and cybersecurity fundamentals.
+I'm interested in IT infrastructure, technical support, cybersecurity and cloud technologies.
 
-I'm currently expanding my knowledge in cloud technologies, security monitoring and infrastructure management.
+I have experience and academic training in:
+
+- Windows and Linux environments
+- TCP/IP networking
+- DNS and DHCP
+- SQL and SQL Server
+- Cybersecurity fundamentals
+- SIEM and security monitoring
+- Cloud technologies
+- IT troubleshooting and support
+
+I'm currently expanding my knowledge in cybersecurity, infrastructure management, databases and cloud environments.
 
 ---
 
-## 🚀 Selected Projects
+# 🚀 Selected Projects
 
-### 🔐 Cybersecurity & IoT Mission — Universidad de los Andes
+## 🔐 Cybersecurity & IoT Mission — Universidad de los Andes
 
-Academic international experience focused on cybersecurity and Internet of Things.
+Academic international experience focused on **Cybersecurity and Internet of Things**.
 
-I worked on vulnerability analysis in simulated environments, secure architecture design and IoT solutions focused on connectivity, integrity and system security.
+I worked on vulnerability analysis in simulated environments and proposed secure architectures designed to protect data and communications.
 
-**Technologies & Topics**
+I also participated in the development and integration of IoT solutions, applying connectivity, security and data integrity principles.
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1f2937?style=flat&logo=hackthebox&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![IoT](https://img.shields.io/badge/IoT-00979D?style=flat&logo=arduino&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=flat)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
 
 ---
 
-## 🛠️ Technical Skills
+## 🌐 ProjectVision
 
-### IT Support & Infrastructure
+Software project developed as part of my academic and personal learning experience.
 
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-ProjectVision-181717?style=flat&logo=github&logoColor=white)](URL_DEL_REPOSITORIO)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🔗 LexiConnect
+
+Application developed to strengthen my software development skills and work with structured application logic.
+
+[![GitHub](https://img.shields.io/badge/GitHub-LexiConnect-181717?style=flat&logo=github&logoColor=white)](URL_DEL_REPOSITORIO)
+
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 💼 Personal Portfolio
+
+My personal website where I present my profile, projects, skills and professional experience.
+
+[![Website](https://img.shields.io/badge/Website-manuelgonzales.dev-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat&logo=github&logoColor=white)](URL_DEL_REPOSITORIO)
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+# 🛠️ Technical Skills
+
+## IT Support & Infrastructure
+
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=flat)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat)
-![DHCP](https://img.shields.io/badge/DHCP-0078D4?style=flat)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-F38020?style=flat&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
 
-### Cybersecurity
+## Cybersecurity
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-DC2626?style=flat)
-![IDS](https://img.shields.io/badge/IDS-7C3AED?style=flat)
+![SIEM](https://img.shields.io/badge/SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![IDS](https://img.shields.io/badge/IDS-EE3124?style=flat&logo=fortinet&logoColor=white)
+![Linux Security](https://img.shields.io/badge/Linux_Security-FCC624?style=flat&logo=linux&logoColor=black)
 
-### Databases
+## Databases
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Cloud
+## Cloud
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat&logo=ibmcloud&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-5C2D91?style=flat&logo=microsoft&logoColor=white)
 
-### Tools
+## Tools & Methodologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoftoffice&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+![ITSM](https://img.shields.io/badge/ITSM-6366F1?style=flat&logo=itil&logoColor=white)
 
 ---
 
-## 🎓 Certifications
+# 🎓 Education
 
-- Microsoft Certified: SQL AI Developer Associate — 2026
-- IBM IT Support Professional Certificate — 2026
-- Google IT Support Professional Certificate — 2026
-- Google Cybersecurity Professional Certificate — 2025
+**Universidad Peruana de Ciencias Aplicadas — UPC**
 
----
+Information Systems Engineering  
+March 2022 — Present
 
-## 🌎 Languages
-
-- Spanish — Native
-- English — Intermediate B1
+Academic focus on cybersecurity, databases, software development and technology infrastructure.
 
 ---
 
-## 📫 Contact
+# 🏆 Certifications
 
-- Email: manuelgonzalesyactayo@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/manuelgonzalesyactayo)
-- Portfolio: (https://manuelgonzales.dev/)
+### Microsoft
+
+**Microsoft Certified: SQL AI Developer Associate — 2026**
+
+Training focused on data and artificial intelligence solutions using SQL, Azure SQL and Microsoft technologies.
+
+![Microsoft](https://img.shields.io/badge/Microsoft-Certified-5E5E5E?style=flat&logo=microsoft&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+---
+
+### IBM
+
+**IBM IT Support Professional Certificate — 2026**
+
+Professional training in technical support, hardware, software, operating systems, networking, cybersecurity and troubleshooting.
+
+![IBM](https://img.shields.io/badge/IBM-052FAD?style=flat&logo=ibm&logoColor=white)
+![IT Support](https://img.shields.io/badge/IT_Support-2563EB?style=flat&logo=windows11&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+---
+
+### Google
+
+**Google IT Support Professional Certificate — 2026**
+
+Training in technical support, operating systems, networking, system administration and IT security.
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+
+---
+
+**Google Cybersecurity Professional Certificate — 2025**
+
+Training in Linux, SQL, Python, SIEM, threat detection, risk management and cybersecurity incident response.
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat&logo=google&logoColor=white)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111827?style=flat&logo=hackthebox&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-005571?style=flat&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
+
+---
+
+# 🌎 Languages
+
+**Spanish** — Native
+
+**English** — Intermediate B1
+
+---
+
+# 📫 Contact
+
+If you'd like to discuss a project, internship opportunity or collaboration, feel free to reach out.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-manuelgonzales.dev-2563EB?style=flat&logo=googlechrome&logoColor=white)](https://manuelgonzales.dev/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel_Gonzales-0A66C2?style=flat&logo=linkedin&logoColor=white)](TU_LINKEDIN)
+
+[![Email](https://img.shields.io/badge/Email-manuelgonzalesyactayo%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manuelgonzalesyactayo@gmail.com)
