@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="300" viewBox="0 0 1000 300" role="img" aria-label="Manuel Gonzales - IT Infrastructure, Networking and Cybersecurity">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101125"/><stop offset=".55" stop-color="#191b3e"/><stop offset="1" stop-color="#172c45"/></linearGradient>
+ <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#64e5f5"/><stop offset="1" stop-color="#ad8cff"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M 36 0 L 0 0 0 36" fill="none" stroke="#6375b5" stroke-opacity=".13"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+</defs>
+<rect width="1000" height="300" rx="18" fill="url(#bg)"/>
+<rect width="1000" height="300" rx="18" fill="url(#grid)"/>
+<circle cx="850" cy="125" r="81" fill="#e07ebf" opacity=".16" filter="url(#glow)"/>
+<circle cx="850" cy="125" r="65" fill="none" stroke="#e881c0" stroke-width="2" opacity=".8"/>
+<circle cx="850" cy="125" r="44" fill="none" stroke="#70deeb" stroke-width="1.5" opacity=".85"/>
+<path d="M 770 125 H930 M850 45 V205 M785 85 Q850 128 915 85 M785 165 Q850 120 915 165" stroke="#70deeb" fill="none" opacity=".42"/>
+<path d="M750 228 l40 -40 25 19 40 -41 27 16 58 -49" fill="none" stroke="#b087ff" stroke-width="3" opacity=".9"/>
+<path d="M 40 44 H725 M40 256 H960" stroke="url(#neon)" stroke-width="1" opacity=".45"/>
+<rect x="40" y="60" width="610" height="174" rx="11" fill="#0d1428" stroke="#465184" stroke-width="1.5"/>
+<path d="M 40 91 H650" stroke="#465184"/>
+<circle cx="59" cy="76" r="5" fill="#ff6b9b"/><circle cx="76" cy="76" r="5" fill="#facc77"/><circle cx="93" cy="76" r="5" fill="#55dfcb"/>
+<text x="123" y="80" fill="#aab8d9" font-family="monospace" font-size="13">manuel@fedora: ~</text>
+<text x="60" y="121" fill="#6ee7d8" font-family="monospace" font-size="15">$ whoami</text>
+<text x="60" y="166" fill="url(#neon)" font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" font-size="35">Manuel Gonzales</text>
+<text x="60" y="197" fill="#e6e9ff" font-family="monospace" font-size="16">IT Infrastructure · Networking · Blue Team</text>
+<text x="60" y="220" fill="#9aaaca" font-family="monospace" font-size="13">status: learning  |  location: Lima, Peru  |  &gt;_</text>
+</svg>
