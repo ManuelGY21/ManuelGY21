@@ -1,128 +1,166 @@
 <div align="center">
-  <img src="assets/header.svg" alt="Manuel Gonzales - Infrastructure, Networking and Cybersecurity" width="100%" />
 
-  <a href="https://manuelgonzales.dev/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-55D6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/manuelgonzalesyactayo/"><img src="https://img.shields.io/badge/LinkedIn-Connect-796CFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:manuelgonzalesyactayo@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-F472B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- BANNER -->
+<a href="https://manuelgonzales.dev/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="960" alt="Manuel Gonzales - Information Systems Engineering">
+  </picture>
+</a>
+
+<br>
+
+<a href="https://manuelgonzales.dev/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manuel+Gonzales+%F0%9F%91%8B;IT+Support+%7C+Cybersecurity+%7C+Infrastructure;Databases+%E2%80%A2+Cloud+%E2%80%A2+Networking;Information+Systems+Engineering+%40+UPC" alt="Typing animation">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=ManuelGY21&style=flat&color=4F8EF7&label=profile+views" alt="profile views">
+
 </div>
 
 ---
 
 ## `$ whoami`
 
-```yaml
-name: Manuel Gonzales
-education: Information Systems Engineering @ UPC
-location: Lima, Peru
-focus:
-  - IT infrastructure & technical support
-  - Networking & Linux administration
-  - Defensive cybersecurity / Blue Team
-  - Databases & cloud fundamentals
-currently_learning:
-  - Network security
-  - SIEM & security monitoring
-  - Cloud infrastructure
-```
+<p align="center">
+  <img src="assets/whoami.svg" width="960" alt="Terminal con el perfil de Manuel Gonzales">
+</p>
 
-I enjoy understanding how systems communicate, troubleshooting infrastructure, and building more secure, reliable technology environments. My background combines **technical support, networking, databases, and software projects**.
+<br>
+
+<div align="center">
 
 ## `$ cat tech-stack.yaml`
 
-<table>
-<tr><td width="50%" valign="top">
-
-**⌁ Operating systems & support**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-Troubleshooting · System administration fundamentals
-
-</td><td width="50%" valign="top">
-
-**⌁ Networking & infrastructure**
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-TCP/IP · DNS · DHCP · Network troubleshooting
-
-</td></tr>
-<tr><td valign="top">
-
-**⌁ Security & monitoring**
-
-![Security](https://img.shields.io/badge/Blue%20Team-Security-796CFF?style=flat-square&logo=shield&logoColor=white)
-
-Cybersecurity fundamentals · SIEM concepts · Security monitoring
-
-</td><td valign="top">
-
-**⌁ Databases & cloud**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-Relational databases · Cloud fundamentals
-
-</td></tr>
-<tr><td colspan="2" valign="top">
-
-**⌁ Software & development tools**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td></tr>
+<table border="1" cellpadding="14">
+  <thead>
+    <tr>
+      <th colspan="2" align="left"><code>manuel@upc:~$ cat tech-stack.yaml</code></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" valign="top"><code>├─ 🖥 systems_support:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell" alt="Windows, Linux, Ubuntu, Bash, PowerShell"><br>
+        <sub><code>Windows · Linux · Ubuntu · Bash · PowerShell</code></sub>
+      </td>
+      <td width="50%" valign="top"><code>├─ 🌐 networking:</code><br><br>
+        <img src="https://cdn.simpleicons.org/cisco/4F8EF7" height="48" alt="Cisco">
+        <img src="https://cdn.simpleicons.org/wireshark/3ddc97" height="48" alt="Wireshark">
+        <img src="https://cdn.simpleicons.org/cloudflare/f7c04f" height="48" alt="DNS"><br>
+        <sub><code>TCP/IP · DNS · DHCP · Cisco · Wireshark</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ 🛡 cybersecurity:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux">
+        <img src="https://cdn.simpleicons.org/splunk/3ddc97" height="48" alt="Splunk / SIEM"><br>
+        <sub><code>Security fundamentals · SIEM · Monitoring · Kali Linux</code></sub>
+      </td>
+      <td valign="top"><code>├─ 🗄 databases:</code><br><br>
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" height="40" alt="SQL Server">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"><br>
+        <sub><code>SQL · SQL Server · MySQL</code></sub>
+      </td>
+    </tr>
+    <tr>
+      <td valign="top"><code>├─ ☁ cloud_deploy:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=azure,aws,vercel" alt="Azure, AWS, Vercel"><br>
+        <sub><code>Azure · AWS · Vercel</code></sub>
+      </td>
+      <td valign="top"><code>╰─ ✦ dev_tools:</code><br><br>
+        <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,git,github" alt="HTML, CSS, C#, .NET, Git, GitHub"><br>
+        <sub><code>HTML5 · CSS3 · C# · .NET · Git · GitHub</code></sub>
+      </td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;environment: UPC → production</code></td>
+    </tr>
+  </tfoot>
 </table>
 
-<sub>Tools shown reflect experience, academic exposure, or current learning—not necessarily professional proficiency in each technology.</sub>
+</div>
+
+---
 
 ## `$ ls ~/projects`
 
 <table>
-<tr><td width="50%" valign="top">
-
-### 🌐 ProjectVision
-Academic/personal software project focused on strengthening foundational web development skills.
-
-`HTML` · `CSS` · `Git`
-
-<!-- TODO: Add a verified repository URL for ProjectVision -->
-
-</td><td width="50%" valign="top">
-
-### 🔗 LexiConnect
-Application created to practice structured application logic and software development.
-
-`C#` · `.NET` · `GitHub`
-
-<!-- TODO: Add a verified repository URL for LexiConnect -->
-
-</td></tr>
-<tr><td colspan="2" valign="top">
-
-### 💼 Personal Portfolio
-A personal website showcasing my professional background, projects, and skills.
-
-`HTML` · `CSS` · `Git` · `Vercel`
-
-**[Open website →](https://manuelgonzales.dev/)**
-
-<!-- TODO: Add a verified repository URL for the portfolio -->
-
-</td></tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 ProjectVision</h3>
+      <sub>Software project developed as part of my academic and personal learning experience.</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,git" height="32" alt="HTML, CSS, Git"><br><br>
+      <a href="https://github.com/ManuelGY21/ProyectVision"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🔗 LexiConnect</h3>
+      <sub>Application developed to strengthen my software development skills and work with structured application logic.</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,github" height="32" alt="C#, .NET, GitHub"><br><br>
+      <a href="https://github.com/ManuelGY21/LexiConnect"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💼 Portfolio</h3>
+      <sub>My personal website where I present my profile, projects, skills and professional experience.</sub><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,git,vercel" height="32" alt="HTML, CSS, Git, Vercel"><br><br>
+      <a href="https://manuelgonzales.dev/"><img src="https://img.shields.io/badge/Live-4F8EF7?style=flat&logo=googlechrome&logoColor=white" alt="Live"></a>
+      <a href="https://github.com/ManuelGY21/Mi-portafolio"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white" alt="Repo"></a>
+    </td>
+  </tr>
 </table>
 
-## `$ cat education.txt`
+---
 
-**Universidad Peruana de Ciencias Aplicadas (UPC)**  
-Information Systems Engineering · March 2022 – Present  
-Academic interests: cybersecurity, databases, software development, and IT infrastructure.
+## `$ ./skill-radar --scan`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+    <img src="assets/radar-light.svg" width="440" alt="Radar de habilidades">
+  </picture>
+</p>
+
+<p align="center"><sub><code>scan: it_support · networking · cybersecurity · databases · cloud · systems · status: growing</code></sub></p>
+
+---
+
+## `$ cat education.log`
+
+```yaml
+university: Universidad Peruana de Ciencias Aplicadas (UPC)
+career:     Information Systems Engineering
+period:     March 2022 — Present
+focus:      [cybersecurity, databases, software development, technology infrastructure]
+```
+
+---
 
 ## `$ connect --socials`
 
 <div align="center">
 
-[**Portfolio**](https://manuelgonzales.dev/) · [**LinkedIn**](https://www.linkedin.com/in/manuelgonzalesyactayo/) · [**Email**](mailto:manuelgonzalesyactayo@gmail.com)
+<sub>Open to internships, projects and collaboration — feel free to reach out.</sub>
 
-<sub>Built with ☕, curiosity, and a Linux terminal · Lima, Peru</sub>
+<br><br>
 
+<a href="https://manuelgonzales.dev/">
+  <img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/manuelgonzalesyactayo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>&nbsp;&nbsp;
+<a href="mailto:manuelgonzalesyactayo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Hecho con 💙 desde Lima, Perú · Manuel Gonzales</sub>
 </div>
