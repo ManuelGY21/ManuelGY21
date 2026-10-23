@@ -1,12 +1,8 @@
 <div align="center">
 
-<!-- BANNER -->
+<!-- HERO ANIMADO (vim profile.yml) -->
 <a href="https://manuelgonzales.dev/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-    <img src="assets/banner-light.svg" width="960" alt="Manuel Gonzales - Information Systems Engineering">
-  </picture>
+  <img src="assets/hero.svg" width="960" alt="vim profile.yml - Manuel Gonzales">
 </a>
 
 <br>
