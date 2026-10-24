@@ -29,52 +29,16 @@
 
 ## `$ cat tech-stack.yaml`
 
-<table border="1" cellpadding="14">
+<table border="1" cellpadding="12">
   <thead>
-    <tr>
-      <th colspan="2" align="left"><code>manuel@upc:~$ cat tech-stack.yaml</code></th>
-    </tr>
+    <tr><th colspan="5" align="left"><code>manuel@lima:~$ cat tech-stack.yaml</code></th></tr>
+    <tr><th align="center"><code>├─ lenguajes:</code></th><th align="center"><code>├─ sistemas:</code></th><th align="center"><code>├─ bases_de_datos:</code></th><th align="center"><code>├─ cloud:</code></th><th align="center"><code>╰─ herramientas:</code></th></tr>
   </thead>
   <tbody>
-    <tr>
-      <td width="50%" valign="top"><code>├─ 🖥 systems_support:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,bash,powershell" alt="Windows, Linux, Ubuntu, Bash, PowerShell"><br>
-        <sub><code>Windows · Linux · Microsoft 365 · Ticketing · ITSM</code></sub>
-      </td>
-      <td width="50%" valign="top"><code>├─ 🌐 networking:</code><br><br>
-        <img src="https://cdn.simpleicons.org/cisco/4F8EF7" height="48" alt="Cisco">
-        <img src="https://cdn.simpleicons.org/wireshark/3ddc97" height="48" alt="Wireshark">
-        <img src="https://cdn.simpleicons.org/cloudflare/f7c04f" height="48" alt="DNS"><br>
-        <sub><code>TCP/IP · DNS · DHCP · Connectivity troubleshooting · Nmap</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ 🛡 cybersecurity:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=kali" alt="Kali Linux">
-        <img src="https://cdn.simpleicons.org/elastic/3ddc97" height="48" alt="Elastic Stack"><br>
-        <sub><code>SOC · SIEM · Elastic Stack · Log analysis · Threat detection</code></sub>
-      </td>
-      <td valign="top"><code>├─ 🗄 databases:</code><br><br>
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logoColor=white" height="40" alt="SQL Server">
-        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"><br>
-        <sub><code>SQL · SQL Server · PostgreSQL</code></sub>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top"><code>├─ ☁ cloud_deploy:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=azure,aws,vercel" alt="Azure, AWS, Vercel"><br>
-        <sub><code>Azure · AWS · Vercel</code></sub>
-      </td>
-      <td valign="top"><code>╰─ ✦ dev_tools:</code><br><br>
-        <img src="https://skillicons.dev/icons?i=html,css,cs,dotnet,git,github" alt="HTML, CSS, C#, .NET, Git, GitHub"><br>
-        <sub><code>HTML5 · CSS3 · C# · .NET · Git · GitHub</code></sub>
-      </td>
-    </tr>
+    <tr><td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"><br><sub><b>C++</b></sub><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/csharp/csharp-original.svg" height="40" alt="C#"><br><sub><b>C#</b></sub><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/python/python-original.svg" height="40" alt="Python"><br><sub><b>Python</b></sub></td><td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/windows11/windows11-original.svg" height="40" alt="Windows"><br><sub><b>Windows</b></sub><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/linux/linux-original.svg" height="40" alt="Linux"><br><sub><b>Linux</b></sub></td><td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="40" alt="SQL Server"><br><sub><b>SQL Server</b></sub><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azuresqldatabase/azuresqldatabase-original.svg" height="40" alt="Azure SQL"><br><sub><b>Azure SQL</b></sub><br><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td><td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/azure/azure-original.svg" height="40" alt="Azure"><br><sub><b>Azure</b></sub><br><br><img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS"><br><sub><b>AWS</b></sub></td><td align="center" valign="top"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.16.0/icons/git/git-original.svg" height="40" alt="Git"><br><sub><b>Git</b></sub><br><br><img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"><br><sub><b>GitHub</b></sub><br><br><img src="https://img.shields.io/badge/M365-D83B01?style=flat-square" height="40" alt="Microsoft 365"><br><sub><b>Microsoft 365</b></sub></td></tr>
   </tbody>
   <tfoot>
-    <tr>
-      <td colspan="2"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;methodologies: Scrum · ITSM</code></td>
-    </tr>
+    <tr><td colspan="5"><code>status: learning&nbsp;&nbsp;·&nbsp;&nbsp;methodologies: Scrum · ITSM</code></td></tr>
   </tfoot>
 </table>
 
