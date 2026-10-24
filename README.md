@@ -11,8 +11,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=4F8EF7&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Manuel+Gonzales+%F0%9F%91%8B;IT+Support+%7C+Cybersecurity+%7C+Infrastructure;SOC+%E2%80%A2+SIEM+%E2%80%A2+Networking+%E2%80%A2+Databases;Tech+Support+Assistant+%40+Tinbet;Google+%26+IBM+IT+Support+%E2%80%A2+GitHub+Foundations" alt="Typing animation">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ManuelGY21&style=flat&color=4F8EF7&label=profile+views">
-
 </div>
 
 ---
